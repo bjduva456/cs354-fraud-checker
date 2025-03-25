@@ -1,1 +1,0 @@
-sns.histplot(data=df, x="amt", hue="is_fraud", bins=50, kde=True)
